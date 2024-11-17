@@ -1,5 +1,9 @@
 # Portfolio-Alura
 Portfolio desenvolvido no curso da Alura (HTML e CSS).
 
-Foto do projeto:
+## Link do projeto:
+
+Clique aqui: https://8462leo.github.io/Portfolio-Alura/
+
+## Foto do projeto:
 
